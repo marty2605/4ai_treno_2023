@@ -9,7 +9,7 @@
  * </UL>
  * 
  * @author Marta
- *versione 3
+ *versione 4 online
  */
 public class Treno {
 	/**
